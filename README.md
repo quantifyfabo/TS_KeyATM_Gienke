@@ -1,4 +1,4 @@
-# Tracking Foreign News Attention: Tagesschau vs. Google Trends
+# KeyATM for NLP in R - Tracking Foreign News Attention: Tagesschau vs. Google Trends
 
 R pipeline that identifies topics in Tagesschau foreign news (2024, n = 5,316 articles)
 using Structural Topic Models (STM) and Keyword-Assisted Topic Models (keyATM)
